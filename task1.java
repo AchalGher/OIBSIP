@@ -1,5 +1,5 @@
 
-//Number Guessing Game
+//Number Guessing Game Using Java
 import java.util.*;
 
 class task1{
