@@ -1,3 +1,4 @@
+//Simple examination portal where user have to enter credentials and attend the quiz
 //import required classes and packages  
 import javax.swing.*;  
 import java.awt.*;  
